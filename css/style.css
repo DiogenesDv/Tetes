@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    border: 2px solid black;
+    width: 50vw;
+    height: auto;
+    margin: auto;
+}
+#inputs{
+   border: 2px solid red;
+   text-align: center;
+}
+
+#inputs input{
+    color: rgb(255, 0, 0);  
+}
